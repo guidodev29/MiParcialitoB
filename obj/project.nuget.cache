@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sI8yqhIb9RxZsdlOEPgbR2c6qZv2mFoLTAeitQTFpv1YNC5o18xr5f1q0So+Ncdt6qHa6pal38x5G3wukUJ02g==",
+  "dgSpecHash": "AJY1JN0DtbvwOpwTt7+lCkqXCoOBBUopwfxZ5nwYTUUYp+L+VYEHKAZSZKzAM18iScfJS1FZgtfna87BpK+FaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UFG\\Desktop\\primer parcial\\MiParcialitoB\\MiParcialitoB.csproj",
+  "projectFilePath": "C:\\Users\\UFG\\Desktop\\parcial\\MiParcialitoB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UFG\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -46,8 +46,8 @@
     "C:\\Users\\UFG\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
-    "C:\\Users\\UFG\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512",
-    "C:\\Users\\UFG\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.0\\pomelo.entityframeworkcore.mysql.6.0.0.nupkg.sha512",
+    "C:\\Users\\UFG\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
+    "C:\\Users\\UFG\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
@@ -83,16 +83,5 @@
     "C:\\Users\\UFG\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\UFG\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Se detectó una versión del paquete fuera de la restricción de dependencia: Pomelo.EntityFrameworkCore.MySql 6.0.0 requiere Microsoft.EntityFrameworkCore.Relational (>= 6.0.0 && < 7.0.0), pero la versión Microsoft.EntityFrameworkCore.Relational 8.0.8 ya se resolvió.",
-      "libraryId": "Microsoft.EntityFrameworkCore.Relational",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

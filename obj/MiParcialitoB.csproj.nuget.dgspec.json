@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UFG\\Desktop\\primer parcial\\MiParcialitoB\\MiParcialitoB.csproj": {}
+    "C:\\Users\\UFG\\Desktop\\parcial\\MiParcialitoB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UFG\\Desktop\\primer parcial\\MiParcialitoB\\MiParcialitoB.csproj": {
+    "C:\\Users\\UFG\\Desktop\\parcial\\MiParcialitoB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UFG\\Desktop\\primer parcial\\MiParcialitoB\\MiParcialitoB.csproj",
+        "projectUniqueName": "C:\\Users\\UFG\\Desktop\\parcial\\MiParcialitoB.csproj",
         "projectName": "MiParcialitoB",
-        "projectPath": "C:\\Users\\UFG\\Desktop\\primer parcial\\MiParcialitoB\\MiParcialitoB.csproj",
+        "projectPath": "C:\\Users\\UFG\\Desktop\\parcial\\MiParcialitoB.csproj",
         "packagesPath": "C:\\Users\\UFG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UFG\\Desktop\\primer parcial\\MiParcialitoB\\obj\\",
+        "outputPath": "C:\\Users\\UFG\\Desktop\\parcial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +67,7 @@
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

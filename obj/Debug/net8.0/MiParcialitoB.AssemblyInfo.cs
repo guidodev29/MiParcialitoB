@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiParcialitoB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d9989c54baecf1db61e7e4c4546043c1bc7b1da")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiParcialitoB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiParcialitoB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
